@@ -13,6 +13,7 @@ const MovieCard = ({
 
     return (
         // asChild thing is clickable
+        // @ts-ignore
         <Link href={`/movie/${id}`} asChild>
             <TouchableOpacity className="w-[30%]">
                 <Image
@@ -30,6 +31,7 @@ const MovieCard = ({
                 </Text>
 
                 <View className="flex-row items-center justify-start gap-x-1">
+                    // @ts-ignore
                     <Image source={icons.star} className="size-4" />
                     <Text className="text-xs text-white font-bold uppercase">
                         {Math.round(vote_average / 2)}
