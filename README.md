@@ -1,3 +1,15 @@
+## Screenshots
+
+<div style="display: flex; gap: 10px; justify-content: center;">
+
+  <img src="https://github.com/user-attachments/assets/97c49209-38d7-45ba-9786-240d8c349dce" alt="image 1" width="250" height="500" />
+
+  <img src="https://github.com/user-attachments/assets/dbae9f4b-d42d-4c7e-b8c6-94a45ddfc09a" alt="image 2" width="250" height="500" />
+
+  <img src="https://github.com/user-attachments/assets/281435b0-d10c-4182-bf4c-e96019c19a83" alt="image 3" width="250" height="500" />
+
+</div>
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -48,3 +60,6 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+
